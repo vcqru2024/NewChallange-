@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VCQRU_CORE_API\\VendorAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0634A147-4D51-41C1-A007-E487C687A963}|VendorAPI\\VendorAPI.csproj|e:\\vcqru_core_api\\vendorapi\\vendorapi\\controllers\\vendorlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0634A147-4D51-41C1-A007-E487C687A963}|VendorAPI\\VendorAPI.csproj|solutionrelative:vendorapi\\controllers\\vendorlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0634A147-4D51-41C1-A007-E487C687A963}|VendorAPI\\VendorAPI.csproj|e:\\vcqru_core_api\\vendorapi\\vendorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0634A147-4D51-41C1-A007-E487C687A963}|VendorAPI\\VendorAPI.csproj|solutionrelative:vendorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0634A147-4D51-41C1-A007-E487C687A963}|VendorAPI\\VendorAPI.csproj|e:\\vcqru_core_api\\vendorapi\\vendorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0634A147-4D51-41C1-A007-E487C687A963}|VendorAPI\\VendorAPI.csproj|solutionrelative:vendorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0634A147-4D51-41C1-A007-E487C687A963}|VendorAPI\\VendorAPI.csproj|e:\\vcqru_core_api\\vendorapi\\vendorapi\\models\\vendorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0634A147-4D51-41C1-A007-E487C687A963}|VendorAPI\\VendorAPI.csproj|solutionrelative:vendorapi\\models\\vendorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VCQRU_CORE_API\\VendorAPI\\VendorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VendorAPI\\Program.cs",
+              "ToolTip": "E:\\VCQRU_CORE_API\\VendorAPI\\VendorAPI\\Program.cs",
+              "RelativeToolTip": "VendorAPI\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:32:49.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendorLoginController.cs",
+              "DocumentMoniker": "E:\\VCQRU_CORE_API\\VendorAPI\\VendorAPI\\Controllers\\VendorLoginController.cs",
+              "RelativeDocumentMoniker": "VendorAPI\\Controllers\\VendorLoginController.cs",
+              "ToolTip": "E:\\VCQRU_CORE_API\\VendorAPI\\VendorAPI\\Controllers\\VendorLoginController.cs",
+              "RelativeToolTip": "VendorAPI\\Controllers\\VendorLoginController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwBcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:52:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendorLogin.cs",
+              "DocumentMoniker": "E:\\VCQRU_CORE_API\\VendorAPI\\VendorAPI\\Models\\VendorLogin.cs",
+              "RelativeDocumentMoniker": "VendorAPI\\Models\\VendorLogin.cs",
+              "ToolTip": "E:\\VCQRU_CORE_API\\VendorAPI\\VendorAPI\\Models\\VendorLogin.cs",
+              "RelativeToolTip": "VendorAPI\\Models\\VendorLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:32:00.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\VCQRU_CORE_API\\VendorAPI\\VendorAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "VendorAPI\\appsettings.json",
+              "ToolTip": "E:\\VCQRU_CORE_API\\VendorAPI\\VendorAPI\\appsettings.json",
+              "RelativeToolTip": "VendorAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T07:17:27.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
